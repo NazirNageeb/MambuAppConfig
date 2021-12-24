@@ -1,11 +1,11 @@
 <app>
  <id>gj8dl19d0</id>
- <name>XE Exchange</name>
- <provider>MIX Market and Mambu</provider>
- <description>A tool to convert currencies</description>
+ <name>PIN Tranlator</name>
+ <provider>EMV Labs</provider>
+ <description>A tool for PIN translation</description>
  <extensionpoint>
  <location>REPORTING_VIEW</location>
- <label>XBRL Export</label>
- <url>https://www.xe.com</url>
+ <label>PIN Block Calculator</label>
+ <url>https://emvlab.org/pinblock/</url>
  </extensionpoint>
 </app>
