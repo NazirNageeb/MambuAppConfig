@@ -6,6 +6,6 @@
  <extensionpoint>
  <location>REPORTING_VIEW</location>
  <label>PIN Block Calculator</label>
- <url>http://astoundingwonderfullushjoke.neverssl.com/online</url>
+ <url>https://emvlab.org/pinblock/</url>
  </extensionpoint>
 </app>
