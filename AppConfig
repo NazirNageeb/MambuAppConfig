@@ -6,6 +6,6 @@
  <extensionpoint>
  <location>REPORTING_VIEW</location>
  <label>PIN Block Calculator</label>
- <url>https://emvlab.org/pinblock/</url>
+ <url>http://www.dailymirror.lk/</url>
  </extensionpoint>
 </app>
