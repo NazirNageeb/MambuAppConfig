@@ -4,7 +4,7 @@
  <provider>xe</provider>
  <description>A tool convert currencies</description>
  <extensionpoint>
- <location>DEPOSIT_ACCOUNT_VIEW</location>
+ <location>REPORTING_VIEW</location>
  <label>Currency Exchange</label>
  <url>https://www.xe.com/</url>
  </extensionpoint>
