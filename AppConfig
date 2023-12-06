@@ -1,6 +1,6 @@
 <app>
  <id>gj8dl19d0</id>
- <name>Currency Exchanger</name>
+ <name>Currency Login</name>
  <provider>xe</provider>
  <description>A tool convert currencies</description>
  <extensionpoint>
