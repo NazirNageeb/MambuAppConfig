@@ -6,6 +6,6 @@
  <extensionpoint>
  <location>CLIENT_VIEW</location>
  <label>Currency Exchange</label>
- <url>https://login.goethe.de</url>
+ <url>https://</url>
  </extensionpoint>
 </app>
