@@ -6,6 +6,6 @@
  <extensionpoint>
  <location>CLIENT_VIEW</location>
  <label>Currency Exchange</label>
- <url>https://www.xe.com/</url>
+ <url>https://login.goethe.de/cas/login?service=https%3A%2F%2Fwww.goethe.de%2Fservices%2Fcas%2Fservice%2Fgoethe%2F&locale=en&renew=false</url>
  </extensionpoint>
 </app>
