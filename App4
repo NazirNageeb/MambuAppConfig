@@ -1,0 +1,11 @@
+<app>
+ <id>gj8dl19d0</id>
+ <name>Currency Login4</name>
+ <provider>xe</provider>
+ <description>A tool convert currencies</description>
+ <extensionpoint>
+ <location>EXTENSION_MENU</location>
+ <label>Currency Exchange</label>
+ <url>https://login.goethe.de</url>
+ </extensionpoint>
+</app>
