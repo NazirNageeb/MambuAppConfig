@@ -5,7 +5,7 @@
  <description>A tool convert currencies</description>
  <extensionpoint>
  <location>EXTENSION_MENU</location>
- <label>Currency Exchange</label>
+ <label>Currency Exchange A</label>
  <url>https://login.goethe.de</url>
  </extensionpoint>
 </app>
