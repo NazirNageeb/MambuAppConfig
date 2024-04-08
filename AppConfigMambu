@@ -1,5 +1,5 @@
 <app>
- <id>001</id>
+ <id>1</id>
  <name>Currency Login</name>
  <provider>xe</provider>
  <description>A tool convert currencies</description>
